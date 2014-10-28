@@ -14,7 +14,7 @@ Getting Started:
   <toolchain>
     <type>protobuf</type>
     <provides>
-      <version><!-- PROTOC_VERSION (e.g. 2.5.0)#-->2.5.0</version>
+      <version><!-- PROTOC_VERSION (e.g. 2.5.0)-->2.5.0</version>
     </provides>
     <configuration>
       <protocExecutable>/usr/bin/protoc</protocExecutable>
